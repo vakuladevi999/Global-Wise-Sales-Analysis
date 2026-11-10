@@ -133,8 +133,8 @@ The Excel workbook is available in the same folder, where applicable.
 
 Vakula Devi
 
-- "LinkedIn" (https://linkedin.com/in/khyathi-vardhan-reddy/)
-- "GitHub" (https://github.com/Khyathi231)
+- "LinkedIn" (www.linkedin.com/in/vakuladevi)
+
 
 ---
 
