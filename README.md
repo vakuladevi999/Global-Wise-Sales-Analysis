@@ -1,4 +1,4 @@
-🌍 Global Wise Sales Analysis – Excel Dashboard
+🌍 Global Wise Sales Analysis | Interactive Excel Reporting
 
 1. Project Goal
 
