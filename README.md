@@ -135,6 +135,12 @@ Vakula Devi
 
 - "LinkedIn" (www.linkedin.com/in/vakuladevi)
 
+- Download the Excel Analysis Workbook
+
+The complete Excel workbook contains the data model, Power Pivot relationships, DAX measures, PivotTables, and interactive sales analysis report.
+
+📊 "View Global Wise Sales Analysis – Excel Workbook" (https://docs.google.com/spreadsheets/d/1XFzaIbINKpoWHWAhMYIYM8n9ChK4TpJI/edit?usp=sharing&ouid=113502815068089332711&rtpof=true&sd=true)
+
 
 ---
 
