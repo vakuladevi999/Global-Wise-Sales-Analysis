@@ -2,7 +2,7 @@
 
 1. Project Goal
 
-The objective of this project is to analyze global sales performance and develop an interactive dashboard using Microsoft Excel.
+The objective of this project is to analyze global sales performance and develop an interactive report using Microsoft Excel.
 
 This project focuses on transforming raw datasets into meaningful business insights through data cleaning, data modeling, DAX calculations, and interactive report development.
 
@@ -24,10 +24,9 @@ The project was completed in six major stages:
 The project uses multiple datasets to build a structured data model.
 
 Dataset| Description
+fact_orders.csv| Orders fact data
 dim_market.csv| Market dimension data
 dim_product.csv| Product dimension data
-
-Additional datasets used in the project are available in the "datasets/" folder.
 
 4. LinkedIn Video Series
 
@@ -85,7 +84,6 @@ Developed and formatted the final interactive sales analytics report.
 - Power Pivot
 - DAX (Data Analysis Expressions)
 - PivotTables
-- PivotCharts
 - Slicers
 
 6. Project Screenshots
